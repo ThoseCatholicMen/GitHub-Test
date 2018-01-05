@@ -1,5 +1,7 @@
 # GitHub-Test
-This is a test to figure out how to use GitHub to do version control for books and articles.
+Now I'm making a change in the existing readme too.
+
+This is a test to figure out how to 'utilize' GitHub to do version control for books and articles.
 
 # This is a main Title
 Here I am going to say something interesting
