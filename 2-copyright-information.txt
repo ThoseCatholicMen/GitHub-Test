@@ -8,4 +8,4 @@ I am making a change to this file directly in the GitHub text editor. I am curio
 
 I am continuing to explore the use of GitHub as an editor. I am hoping it just works with Grammarly, but I'm not entirely sure about this. See I removed something and added some more things as a change.
 
-So now this is an entirely separate file on my desktop... that's pretty cool.
+So now this is an entirely separate file on my desktop... that's pretty cool. As you can see, we are still trying to figure out how to use Git entirely.
