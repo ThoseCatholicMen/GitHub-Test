@@ -1,6 +1,11 @@
 # GitHub-Test
 Now I'm making a change in the existing readme too.
 
+## Subtitle
+Gotta love markdown...
+
+### Sub-Subtitle
+
 This is a test to figure out how to 'utilize' GitHub to do version control for books and articles.
 
 # This is a main Title
